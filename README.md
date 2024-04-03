@@ -12,6 +12,7 @@
 
 ## :dart: Objetivos da Sprint
 <span id="objetivo">
+    
 Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por essa sprint são: 
 - :heavy_check_mark: **R01:** Inicio do banco de dados;
 - :heavy_check_mark: **R02:** Inicio do FrontEnd;
@@ -21,6 +22,7 @@ Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por 
 
 ## Resumo do trabalho
 <span id="resumo">
+    
 Quadro do trello para organização de tarefas:
 ![image](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/fd2b6e65-6b85-43fa-b495-412ba7a791db)
 
@@ -32,6 +34,7 @@ Dentro do trello teremos todas as tarefas separadas para os membros do grupo esc
 
 ## Entrega:
 <span id="entrega">
+    
 Segue aqui o link para o vídeo de entrega da primeira sprint: 
 
 ## Contato:
