@@ -20,7 +20,7 @@
 Previsão de entrega das Sprints e relatótios:
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 03/04/2024 | 🕑 Em Andamento | [ver relatório] |
+| 01 | 03/04/2024 | 🕑 Em Andamento | [ver relatório](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/blob/rel1/README.md) |
 | 02 | Sem data definida | 🕑 Em Andamento | [ver relatório] |
 | 03 | Sem data definida | 🕑 Em Andamento | [ver relatório] |
 <span id="equipe">
@@ -41,6 +41,10 @@ Previsão de entrega das Sprints e relatótios:
 # Prioridades 
 
 ![Pink Purple Photo Comparison Chart](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/6468fbfa-e94f-4c57-b13e-3e020338c890)
+
+# User Stories
+
+![Green Pink Blobs Handwritten Coach Tips List Instagram Post](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/bcc8d87a-b410-4c2a-9b3e-991a5526e124)
 
 # Planejamento das Sprints
 
