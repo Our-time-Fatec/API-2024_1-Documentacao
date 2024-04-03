@@ -38,6 +38,14 @@ Previsão de entrega das Sprints e relatótios:
 |         [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-sergio-faria-santo-76284433/) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/matheussanto2)           |Matheus Sergio Faria Santo        | Dev Team      |
 
 
+# Prioridades 
+
+![Pink Purple Photo Comparison Chart](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/6468fbfa-e94f-4c57-b13e-3e020338c890)
+
+#Planejamento das Sprints
+
+![a2523744-b915-4286-a8cc-9915c2f67dc3](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/e275405c-39e1-4b2c-843b-d71cb087db01)
+
 ## Tecnologias
 <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
 <a href="https://react.dev/"><img src="https://img.shields.io/badge/React_Native-CED4DA?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
