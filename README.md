@@ -2,24 +2,25 @@
 
 <span id="topo">
 <p align="center">
-    <a href="#sobre">Objetivos</a>  |  
+    <a href="#objetivo">Objetivos</a>  |  
 <!--    <a href="#backlogs">Backlogs, Épicos & User Stories</a>  | --> 
-    <a href="#tecnologias">Resumo do trabalho</a>  |  
-    <a href="#equipe">Entrega</a> | 
+    <a href="#resumo">Resumo do trabalho</a>  |  
+    <a href="#entrega">Entrega</a> | 
 </p>
    
 
 
 ## :dart: Objetivos da Sprint
+<span id="objetivo">
 Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por essa sprint são: 
 - :heavy_check_mark: **R01:** Inicio do banco de dados;
 - :heavy_check_mark: **R02:** Inicio do FrontEnd;
 - :heavy_check_mark: **R03:** Inicio do BackEnd;
 - :heavy_check_mark: **R04:** Estudo das ferramentas que serão utilizadas;
 - :heavy_check_mark: **R05:** Documentação no GitHub;
-<span id="sobre">
 
 ## Resumo do trabalho
+<span id="resumo">
 Quadro do trello para organização de tarefas:
 ![image](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/fd2b6e65-6b85-43fa-b495-412ba7a791db)
 
@@ -30,7 +31,8 @@ Dentro do trello teremos todas as tarefas separadas para os membros do grupo esc
 
 
 ## Entrega:
-
+<span id="entrega">
+Segue aqui o link para o vídeo de entrega da primeira sprint: 
 
 ## Contato:
  Email: davincicode.fatec@gmail.com
