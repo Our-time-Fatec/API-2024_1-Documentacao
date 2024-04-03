@@ -35,6 +35,7 @@ Previsão de entrega das Sprints e relatótios:
 |         [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-candido-70b199298) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/larissaxyz)           | Larissa Emanuelle Barbosa Candido        | Dev Team      |
 |      [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasRbnc)              | Lucas Roberto M. Nascimento  | Scrum Master     |
 |         [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-nascimento-4404b6119) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MuriloGGSilva)           | Murilo Gomes da Silva        | Dev Team      |
+|         [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-sergio-faria-santo-76284433/) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/matheussanto2)           |Matheus Sergio Faria Santo        | Dev Team      |
 
 
 ## Tecnologias
