@@ -1,4 +1,4 @@
-<h1 align="center">  Expert Treinamentos</h1>
+<h1 align="center">  Vintura</h1>
 
 <span id="topo">
 <p align="center">
@@ -42,7 +42,7 @@ Previsão de entrega das Sprints e relatótios:
 
 ![Pink Purple Photo Comparison Chart](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/6468fbfa-e94f-4c57-b13e-3e020338c890)
 
-#Planejamento das Sprints
+# Planejamento das Sprints
 
 ![a2523744-b915-4286-a8cc-9915c2f67dc3](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/e275405c-39e1-4b2c-843b-d71cb087db01)
 
