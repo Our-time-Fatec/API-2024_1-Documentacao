@@ -30,6 +30,9 @@ Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por 
 ![image](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/db6e056e-f192-4bd3-a984-a2141668ab93)
 - Dentro do trello teremos todas as tarefas separadas para os membros do grupo escolherem uma delas para realizar, nesse mesmo metodo incentivamos os membros a dividir tarefas uns com os outros codando em pares. No trello também teremos a descrição das tarefas dentro de cada card para que a pessoa que for realiza-lá saiba oque fazer e de onde partir.
 
+- Gráfico Burndown
+
+![image](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/df5f6cfa-2575-41f0-81e1-32af2de77b8b)
 
 
 ## Link da entrega:
