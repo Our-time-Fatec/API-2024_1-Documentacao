@@ -11,10 +11,6 @@
 <span id="sobre">
 
 ## :bookmark_tabs: Sobre o projeto
-
-
-## Objetivo do Projeto:
-<p></p> 
     
 ### 🏁 Entregas de Sprints
 Previsão de entrega das Sprints e relatótios:
