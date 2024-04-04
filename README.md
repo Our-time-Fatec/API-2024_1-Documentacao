@@ -42,13 +42,13 @@ Previsão de entrega das Sprints e relatótios:
 
 ![Prioridades API](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/6c832b93-225c-4450-b44d-628966fc6c51)
 
-# User Stories
-
-![Green Pink Blobs Handwritten Coach Tips List Instagram Post](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/bcc8d87a-b410-4c2a-9b3e-991a5526e124)
-
 # Planejamento das Sprints
 
 ![a2523744-b915-4286-a8cc-9915c2f67dc3](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/e275405c-39e1-4b2c-843b-d71cb087db01)
+
+# User Stories
+
+![Green Pink Blobs Handwritten Coach Tips List Instagram Post](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/bcc8d87a-b410-4c2a-9b3e-991a5526e124)
 
 ## Tecnologias
 <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
