@@ -40,7 +40,7 @@ Previsão de entrega das Sprints e relatótios:
 
 # Prioridades 
 
-![Pink Purple Photo Comparison Chart](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/6468fbfa-e94f-4c57-b13e-3e020338c890)
+![Prioridades API](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/6c832b93-225c-4450-b44d-628966fc6c51)
 
 # User Stories
 
