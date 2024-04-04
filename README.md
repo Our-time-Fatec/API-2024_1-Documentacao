@@ -20,7 +20,7 @@
 Previsão de entrega das Sprints e relatótios:
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 03/04/2024 | 🕑 Em Andamento | [ver relatório](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/blob/rel1/README.md) |
+| 01 | 03/04/2024 | ✔️ Concluída | [ver relatório](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/blob/rel1/README.md) |
 | 02 | Sem data definida | 🕑 Em Andamento | [ver relatório] |
 | 03 | Sem data definida | 🕑 Em Andamento | [ver relatório] |
 <span id="equipe">
