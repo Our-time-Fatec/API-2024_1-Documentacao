@@ -73,6 +73,14 @@ Previsão de entrega das Sprints e relatótios:
 ## Contato:
  Email: davincicode.fatec@gmail.com
 
+## Link do Código Front-End:
+
+https://github.com/Our-time-Fatec/API-2024_1-Front
+
+## Link do Código Back-End:
+
+https://github.com/Our-time-Fatec/API-2024_1-Back
+
 ## Links Web site teste:
 
 
