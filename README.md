@@ -11,6 +11,14 @@
 <span id="sobre">
 
 ## :bookmark_tabs: Sobre o projeto
+
+Bem-Vindos ao Vintura seu software de gerênciamento de projetos relacionados a Geoprocessamento.
+
+Nossa ideia é centralizar os colaboradores da empresa Visiona em um só ambiente onde poderão realizar suas tarefas individuais, acompanhar seu progresso e receber feedbacks a respeito, dessa forma agilizando ainda mais as entregas da empresa.
+
+Os projetos serão apresentados para cada colaborador de acordo com seu respectivo papel no mesmo, para que dessa forma, não haja interferência entre eles.
+
+Venha acompanhar nossa jornada de desenvolvimento desse projeto inovador.
     
 ### 🏁 Entregas de Sprints
 Previsão de entrega das Sprints e relatótios:
