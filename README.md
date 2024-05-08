@@ -14,30 +14,32 @@
 <span id="objetivo">
     
 Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por essa sprint são: 
-- :heavy_check_mark: **R01:** Inicio do banco de dados;
-- :heavy_check_mark: **R02:** Inicio do FrontEnd;
-- :heavy_check_mark: **R03:** Inicio do BackEnd;
-- :heavy_check_mark: **R04:** Estudo das ferramentas que serão utilizadas;
-- :heavy_check_mark: **R05:** Documentação no GitHub;
+- :heavy_check_mark: **R06:** Login e Registrado de Usuário;
+- :heavy_check_mark: **R07:** Criação de página de projetos;
+- :heavy_check_mark: **R08:** Geração e Filtragem de Estatísticas;
+- :heavy_check_mark: **RNF3:** MongoDB;
+
 
 ## Resumo do trabalho
 <span id="resumo">
     
-- Quadro do trello para organização de tarefas:
-![image](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/fd2b6e65-6b85-43fa-b495-412ba7a791db)
+- Página de seleção de projetos:
+![image](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/cf5e663a-dc52-4703-8ae5-ef9b6fa25c59)
 
-- Inicio do estudo sobre o MongoDB e seus plugins:
-![image](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/db6e056e-f192-4bd3-a984-a2141668ab93)
-- Dentro do trello teremos todas as tarefas separadas para os membros do grupo escolherem uma delas para realizar, nesse mesmo metodo incentivamos os membros a dividir tarefas uns com os outros codando em pares. No trello também teremos a descrição das tarefas dentro de cada card para que a pessoa que for realiza-lá saiba oque fazer e de onde partir.
+- Página de login:
+![image](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/05159ec6-8eb0-4194-9039-d14e5c1c0c6f)
+
+- Página de um projeto, o quadrado branco mostrado sera substituído por um mapa ou um gráfico na proxima sprint:
+![image](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/8c2b81c2-7d2a-404f-9b66-28debf8d3939)
 
 - Gráfico Burndown
 
-![image](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/e0a9c34f-1319-44bc-9c85-2c5241cc0be1)
+![image](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/faa3a13d-a44c-40c4-8c3d-be5452e9b7a4)
 
 ## Link da entrega:
 <span id="entrega">
     
-Segue aqui o link para o vídeo de entrega da primeira sprint: https://youtu.be/ZwcowzCCEIg
+Segue aqui o link para o vídeo de entrega da segunda sprint: 
 
 ## Contato:
  Email: davincicode.fatec@gmail.com
