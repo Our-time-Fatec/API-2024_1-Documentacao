@@ -39,7 +39,7 @@ Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por 
 ## Link da entrega:
 <span id="entrega">
     
-Segue aqui o link para o vídeo de entrega da segunda sprint: 
+Segue aqui o link para o vídeo de entrega da segunda sprint: https://youtu.be/TB4kFsq0Lj0
 
 ## Contato:
  Email: davincicode.fatec@gmail.com
