@@ -27,7 +27,7 @@ Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por 
 ![image](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/cb4e002b-7edd-4708-bc5d-7b125453c312)
 
 - Página do Sobre nós:
-- ![image](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/f78997cd-cbe7-456c-96ed-0453b)
+![image](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/127908030/dec0d521-7d3b-4146-b1bd-740acea45b0d)
 
 - Página de Registro exclusiva para administradores:
 ![image](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/55d7af61-6a95-460a-ba31-7da4522318d6)
