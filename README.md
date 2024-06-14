@@ -39,7 +39,7 @@ Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por 
 ![image](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/bf7644fb-0e3d-439b-aad2-80e1ca5b7522)
 
 - Gráfico Burndown
-![image](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/faa3a13d-a44c-40c4-8c3d-be5452e9b7a4)
+![image](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/127908030/b5419386-836f-49ed-b27f-8f795d9fa8cd)
 
 
 ## Contato:
